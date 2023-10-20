@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Basil Ismail
-- 👀 I’m a Computer Engineer 2nd year student 
+- 👀 I’m a Computer Engineer 3rd year student 
 - 🌱 I’m currently learning Web development 
 - 📫 How to reach me ? 
-You can always check out my insta to DM me @Basell_awni
+You can always check out my insta  @Baseil_awni
+Or catch up with me on my linkedIn @Basil Awni
 
 <!---
 AbuEskander/AbuEskander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
