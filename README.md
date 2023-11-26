@@ -2,8 +2,8 @@
 - 👀 I’m a Computer Engineer 3rd year student 
 - 🌱 I’m currently learning Web development 
 - 📫 How to reach me ? 
-You can always check out my insta  @Baseil_awni
-Or catch up with me on my linkedIn @Basil Awni
+You can always check out my insta  @basil_awni_
+Or catch up with me on my linkedIn @Basil_Awni
 
 <!---
 AbuEskander/AbuEskander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
