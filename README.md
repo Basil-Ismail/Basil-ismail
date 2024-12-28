@@ -2,7 +2,6 @@
 
 I'm a Techie, simply someone who loves what he's doing. I developed some weird things, which you might find interesting.
 Join me on a journey to make a difference in the Tech Industry
-![MeItGIF](https://github.com/AbuEskander/AbuEskander/assets/107148738/df9351df-a780-4926-a513-2cbf9a4e1247)
 ---
 ## 🚀 About Me
 - 💻 I'm a Computer Engineer almost graduated from BAU 🏫 
@@ -28,3 +27,5 @@ Join me on a journey to make a difference in the Tech Industry
 ---
 
 ⚡️ Fun fact: I love Protons :D 
+![MeItGIF](https://github.com/AbuEskander/AbuEskander/assets/107148738/df9351df-a780-4926-a513-2cbf9a4e1247)
+
