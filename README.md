@@ -21,11 +21,13 @@ Join me on a journey to make a difference in the Tech Industry
 ## 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/basilismail/)  
 - 🐦 [Instagram](https://www.instagram.com/basil_awni_/)  
-- 📧 Email: basilaismail11@gmail.com
+- 📧 [Email](basilaismail11@gmail.com)
     
 
 ---
 
 ⚡️ Fun fact: I love Protons :D 
+
+
 ![MeItGIF](https://github.com/AbuEskander/AbuEskander/assets/107148738/df9351df-a780-4926-a513-2cbf9a4e1247)
 
