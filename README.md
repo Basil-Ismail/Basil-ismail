@@ -11,7 +11,7 @@ Join me on a journey to make a difference in the Tech Industry
 
 ## 🧰 Skills
 - **Programming Languages**: C/C++, Python, JavaScript, Shell Scripting   
-- **Tools**: Git, VS Code, GCC, GDB, WSL, VIM
+- **Tools**: Git, VS Code, GCC, GDB, WSL, NEOVIM, VALGRIND, NOTION
 
 ## 🌱 My Current Goals
 - Improve collaboration and teamwork for projects.  
