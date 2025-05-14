@@ -34,10 +34,9 @@ Somewhere along the way, I built a **Smart Mirror**, coded my own **Shell**, and
 ---
 
 ## 🌐 Let's Sync Up
-
-- 📎 [LinkedIn](#) — Professional Basil lives here  
-- 📸 [Instagram](#) — Real Basil sometimes lives here too  
-- 📬 Email — Always open for collabs, questions, or just a geeky chat
+- 📎 [LinkedIn](https://www.linkedin.com/in/basilismail/)  — Professional Basil lives here  
+- 📸 [Instagram](https://www.instagram.com/basil_awni_/)   — Real Basil sometimes lives here too  
+- 📬 [Email](basilaismail11@gmail.com) — Always open for collabs, questions, or just a geeky chat
 
 ---
 
