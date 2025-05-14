@@ -19,7 +19,7 @@ Somewhere along the way, I built a **Smart Mirror**, coded my own **Shell**, and
 ## 🛠️ What’s in My Toolkit
 
 - **Languages I speak (to machines):** `C`, `C++`, `Python`, `JavaScript`, `Shell`
-- **Weapons of choice:** `GCC`, `GDB`, `Neovim`, `WSL`, `VS Code`, `Git`, `Valgrind`
+- **Weapons of choice:** `GCC`, `GDB`, `Neovim`, `WSL`, `VS Code`, `Git`, `Valgrind`, `Postman`
 - **Battlefields:** Linux, system programming, AI playgrounds, full-stack chaos, and embedded puzzles
 
 ---
