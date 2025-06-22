@@ -1,51 +1,47 @@
-# 🚨 Incoming Transmission from AbuEskander
+# Hey I'm Basil. ⚛️
 
-Hey, stranger 👋  
-You’ve stumbled into the digital corner of **Basil Ismail** — a curious mind tangled in wires, bits, and bold ideas.
+## Wo Am I? 👀
+I'm a Computer Engineer Graduated from Al Balqa Applied University, and a Software Engineering Student at 42 Amman Program.
+A guy who enjoys tech and build things that are unique 🔥🔥
 
----
 
-## 🧠 The Backstory
+## What have I  built?
+Let's say I've been in multiple fields so 
 
-I’m not just learning tech — I’m living it.
+In Low-level C/C++ Programming 🤖:
+- A HTTP WebServer (Currently Under progress) 
+- An image RayTracing Generator (miniRT)
+- Bash-like Shell (MiniShell)
+- A Dinning Philosopher Problem's Solution.
 
-By day, I’m wrapping up my Computer Engineering degree at **BAU**.  
-By night (and most other times too), I’m deep in the code trenches at **42 Amman**, where we learn by doing — and failing — and doing again. It’s beautiful.
+In Full-Stack 😎:
+- Smart Mirror Backend and infrastructure  (Node JS, Express JS, MongoDB, JWT, Axios, Socket.IO)
+- React Quiz App (React JS)
+- Todo-list (React JS)
+- Calculator "Typical Coruses projects" (React JS)
+- Dahab Hackathon Backend (Node JS, Express JS, MongoDB)
 
-Somewhere along the way, I built a **Smart Mirror**, coded my own **Shell**, and dived into the world of **AI and raytracing**. I like weird projects. Weird teaches better than tutorials.
+Some other project:
+- Makeme Script (bash)
+- Mnist AI (Python AI Stack)
+- 8-bit CPU (LogiSim)
+- 64KB Memory (LogiSim Evo)
 
----
+#### And a the list goes on! 
 
-## 🛠️ What’s in My Toolkit
+## What else?
+I've also been part of multiple volunteering groups:
 
-- **Languages I speak (to machines):** `C`, `C++`, `Python`, `JavaScript`, `Shell`
-- **Weapons of choice:** `GCC`, `GDB`, `Neovim`, `WSL`, `VS Code`, `Git`, `Valgrind`, `Postman`
-- **Battlefields:** Linux, system programming, AI playgrounds, full-stack chaos, and embedded puzzles
+### DDN @ 42 Amman -- Software Developer
+### Soul-Team @ Al Balqa Applied University -- SDT Manager
+### Nashama @ 42 Amman -- Mentor(Nashmi)
+### IEEE CS @ Al Balqa Applied University -- Member
 
----
+## What is my goal?
+To leave an impact on the world through my work and knowledge!
+I'm always aiming to leave a mark wherever I go!
 
-## 🌱 What I'm Chasing
+And I've a concept of Proton⚛️! A concept I'll achieve by time!! What is it? I'll let time tell :3
 
-- Becoming a master of system-level programming (and maybe the kernel 👀)  
-- Writing code that isn’t just smart — but **scalable**, **clean**, and **human**  
-- Working better with others (yes, even when I’d rather do it all myself)  
-- Turning ideas into tools that actually **matter**
 
----
 
-## 🌐 Let's Sync Up
-- 📎 [LinkedIn](https://www.linkedin.com/in/basilismail/)  — Professional Basil lives here  
-- 📸 [Instagram](https://www.instagram.com/basil_awni_/)   — Real Basil sometimes lives here too  
-- 📬 [Email](basilaismail11@gmail.com) — Always open for collabs, questions, or just a geeky chat
-
----
-
-## ⚡ Proton-Powered Facts
-
-- I love protons. Why? Because they’re **positive**, **charged**, and **never alone** — kinda like the people I vibe with.  
-- I believe **efficiency is an art** and **bugs are just misunderstood features.**  
-- One day, I’ll build something big. For now, I’m just building.
-
----
-
-*Thanks for dropping by. Fork around and find out what I’ve been up to ⚡*
