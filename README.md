@@ -47,3 +47,7 @@ And I've a concept of Proton⚛️! A concept I'll achieve by time!! What is it?
 ![Basil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basil-ismail&show_icons=true&theme=tokyonight)
 
 
+<br>
+<a href="https://github.com/basil-ismail?tab=overview">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basil-ismail&theme=tokyonight" alt="More Basil's Stats" /></p>
+</a>
