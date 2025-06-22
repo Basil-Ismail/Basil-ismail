@@ -44,4 +44,6 @@ I'm always aiming to leave a mark wherever I go!
 And I've a concept of Proton⚛️! A concept I'll achieve by time!! What is it? I'll let time tell :3
 
 
+![Basil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basil-ismail&show_icons=true&theme=tokyonight)
+
 
