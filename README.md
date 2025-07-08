@@ -51,3 +51,12 @@ And I've a concept of Proton⚛️! A concept I'll achieve by time!! What is it?
 <a href="https://github.com/basil-ismail?tab=overview">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basil-ismail&theme=tokyonight" alt="More Basil's Stats" /></p>
 </a>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basil-ismail/basil-ismail/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/basil-ismail/basil-ismail/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/basil-ismail/basil-ismail/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
