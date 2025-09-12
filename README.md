@@ -1,9 +1,7 @@
 # Hey I'm Basil. ⚛️
 
-## Wo Am I? 👀
-I'm a Computer Engineer Graduated from Al Balqa Applied University, and a Software Engineering Student at 42 Amman Program.
-A guy who enjoys tech and build things that are unique 🔥🔥
-
+## Software Engineer | Master’s in CS | Bachelor in CE |  42 Amman Cadet
+I build AI-driven software and agentic systems that automate workflows, simplify tasks, and unlock smarter ways of working. Passionate about shaping the future of intelligent, adaptive software that empowers people and organizations.
 
 ## What have I  built?
 Let's say I've been in multiple fields so 
